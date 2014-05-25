@@ -3,7 +3,7 @@ loading-bars
 
 Loading bars like Gmail app for Android.
 
-Demo: (http://adjohnson916.github.io/loading-bars/example/index.html)[http:/adjohnson916.github.io/loading-bars/example/index.html]
+Demo: [http://adjohnson916.github.io/loading-bars/example/index.html](http:/adjohnson916.github.io/loading-bars/example/index.html)
 
 
 ## Install
